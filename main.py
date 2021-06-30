@@ -2,7 +2,6 @@ import pyautogui as pt
 from time import sleep
 import pyperclip
 import webbrowser
-import tkinter as tk
 import os
 
 
