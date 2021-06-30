@@ -45,7 +45,7 @@ def connectaudio():
 
 
 def gocontact():
-    position = pt.locateOnScreen("affan.png", confidence=.6)
+    position = pt.locateOnScreen("Your Friend Whatsapp Png", confidence=.6) //Update This before Running
     x = position[0]
     y = position[1]
     pt.moveTo(x + 10, y + 20)
@@ -56,7 +56,7 @@ def checknew():
     while True:
 
         try:
-            position = pt.locateOnScreen("newaffan.png", confidence=.7)
+            position = pt.locateOnScreen("Your Friend Whatsapp Png when he send you any new message", confidence=.7) //Update This Before Running
             if position is not None:
                 os.startfile('c:\win')
                 sleep(4)
