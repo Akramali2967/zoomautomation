@@ -81,7 +81,7 @@ def checknew():
         sleep(2)
 
 
-os.startfile('c:\win')
+os.startfile('Located Your Whatapp File') //This is the location where i have installed WhatsApp Ex- C:\whatsapp
 sleep(15)
 webbrowser.open("www.google.com")
 checknew()
