@@ -1,4 +1,4 @@
-# zoomautomation
+# Zoom Meeting Automation
 Hello Guys 
 This is My Project on Python Library Pyautogui
 
@@ -10,3 +10,8 @@ Pyperclip is used to copy the link which we will get from whatsapp and then use 
 Time is used to hold the program 
 webbrowser is used to open the zoom link
 os is used to open the whatsapp Application
+
+We have used bat file so it will free you from going to your terminal or what editor you are using 
+You Have To Edit bat file, You Can Do it By opening it with notepad or any editor if you have installed Python SomeWhere Else  edit the locations and also edit the location where you have stored the code
+
+*Before Copying My project You Can Kindly Ask For My Permission*
